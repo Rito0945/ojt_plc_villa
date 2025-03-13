@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/plc_estate", "destination": "/api/plc_estate/index.php" }
+  ]
+}
